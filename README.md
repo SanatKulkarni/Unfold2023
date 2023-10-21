@@ -1,6 +1,8 @@
 # CryptoBookings - A Web3 Based Event Booking and Ticketing Platform
 
-![banner](https://github.com/SanatKulkarni/Unfold2023/assets/87092449/8f469838-885c-496c-9819-503e447a6680)
+
+![banner](https://github.com/SanatKulkarni/Unfold2023/assets/87092449/e39dcccc-1ca2-4fa6-abeb-4d8035f56278)
+
 
 CryptoBookings is a revolutionary web3-based booking platform that redefines the ticket purchasing experience. With a focus on instant transactions, CryptoBookings ensures that when you withdraw a ticket, the refund is immediately deposited into your account, eliminating the traditional waiting period for organizer and bank processing. Experience the future of event booking with CryptoBookings - where convenience meets speed in the world of blockchain.
 
